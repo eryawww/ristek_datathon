@@ -9,6 +9,7 @@ COLUMNS:
     media       -> nama file .jpg yang ada pada data yang diberikan
     label       -> target variable, apakah perlu action (1) atau tidak (0)
 DECISION:
+    id          drop
     url         drop
     user_id     drop
     

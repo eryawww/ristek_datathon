@@ -1,3 +1,7 @@
 checkpoints
 Cyclone_Wildfire_Flood_Earthquake_Database
 data/**
+models
+pretrained
+tools
+*.c
